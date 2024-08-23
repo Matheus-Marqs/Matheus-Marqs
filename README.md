@@ -1,4 +1,4 @@
-Desenvolvedor Back-End | RPA | Javascript | Python | Ruby | SQL | Node.js
+Desenvolvedor Back-End | RPA | HTML | CSS | Javascript | Python | Ruby | SQL | Node.js
 
 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
@@ -9,8 +9,10 @@ Tecnologias e Ferramentas
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="WSL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
+
 Conecte-se Comigo
 <div> 
   <a href="https://www.linkedin.com/in/matheus-marqs/" target="_blank">
