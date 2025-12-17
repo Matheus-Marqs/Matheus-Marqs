@@ -53,13 +53,8 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoC
 
 Metodologias Ágeis
 
-https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white
+[https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white
 
-https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white
+https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white
 
-
-
-
-Metodologias Ágeis
-
-
+https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
